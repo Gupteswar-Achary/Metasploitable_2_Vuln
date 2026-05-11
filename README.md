@@ -42,9 +42,9 @@ Each vulnerability entry includes:
 
 ## 🗂️ Vulnerability Index
 
-| # | Service | Port | Vulnerability | Severity | CVE |
-|---|---------|------|--------------|----------|-----|
-| 1 | FTP | 21 | vsFTPd 2.3.4 Backdoor | 🔴 Critical | CVE-2011-2523 |
+| # | Service | Port | Vulnerability | Severity | CVE | Status
+|---|---------|------|--------------|----------|-----|-------
+| 1 | FTP | 21 | vsFTPd 2.3.4 Backdoor | 🔴 Critical | CVE-2011-2523 | ✅
 | 2 | SSH | 22 | Weak Credentials / Brute Force | 🟠 High | — |
 | 3 | Telnet | 23 | Cleartext Authentication | 🟠 High | — |
 | 4 | SMTP | 25 | Open Mail Relay | 🟡 Medium | — |
