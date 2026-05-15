@@ -53,7 +53,7 @@ Each vulnerability entry includes:
 | 7 | NetBIOS | 139/445 | Samba Usermap Script | 🔴 Critical | CVE-2007-2447 |
 | 8 | Java RMI | 1099 | Java RMI Server RCE | 🔴 Critical | — |
 | 9 | NFS | 2049 | World-Readable NFS Shares | 🟠 High | — |
-| 10 | IRC | 6667 | UnrealIRCd Backdoor | 🔴 Critical | CVE-2010-2075 |
+| 10 | IRC | 6667 | UnrealIRCd Backdoor | 🔴 Critical | CVE-2010-2075 |✅
 | 11 | Postgres | 5432 | Default Credentials | 🟠 High | — |
 | 12 | MySQL | 3306 | No Root Password | 🔴 Critical | — |
 | 13 | Tomcat | 8180 | Default Credentials / WAR Upload | 🔴 Critical | — |
