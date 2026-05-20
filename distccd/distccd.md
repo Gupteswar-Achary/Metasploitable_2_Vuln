@@ -225,10 +225,7 @@ Set payload          →  cmd/unix/reverse
 Run exploit          →  Reverse shell opened ✅
        ↓
 cat /etc/issue       →  Credentials: msfadmin/msfadmin
-       ↓
-sudo -l              →  (ALL) ALL — unrestricted sudo
-       ↓
-sudo su              →  Root shell ✅
+       
 ```
 
 ---
