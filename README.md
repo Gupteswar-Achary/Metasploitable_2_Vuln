@@ -58,7 +58,7 @@ Each vulnerability entry includes:
 | 12 | MySQL | 3306 | No Root Password | 🔴 Critical | — |
 | 13 | Tomcat | 8180 | Default Credentials / WAR Upload | 🔴 Critical | — |
 | 14 | Distcc | 3632 | Remote Code Execution | 🔴 Critical | CVE-2004-2687 |✅
-| 15 | PHP | 80 | PHP CGI Argument Injection | 🔴 Critical | CVE-2012-1823 |
+| 15 | PHP | 80 | PHP CGI Argument Injection | 🔴 Critical | CVE-2012-1823 |✅
 
 > ✏️ *This table will be updated as new vulnerabilities are documented.*
 
