@@ -91,9 +91,8 @@ Metasploitable_2_Vuln/
 │   └── phpMyAdmin/
 │
 ├── post-exploitation/            # Post-exploitation notes
-│   └── privilege_escalation.md
-│
-└── screenshots/                  # Evidence & PoC screenshots
+    └── privilege_escalation.md
+              
 ```
 
 ---
