@@ -107,8 +107,8 @@ Metasploitable_2_Vuln/
 
 ### Network Configuration
 ```
-Attacker (Kali)  →  [Host-Only Network]  →  Target (Metasploitable 2)
-192.168.56.101                               192.168.56.102
+Attacker (Kali)  →  [NAT Network]  →  Target (Metasploitable 2)
+192.168.133.x                               192.168.133.x
 ```
 
 > ⚡ **Always run in an isolated network. Never expose Metasploitable 2 to the internet.**
